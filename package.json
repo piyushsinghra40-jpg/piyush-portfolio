@@ -1,0 +1,7 @@
+{
+  "name": "piyush-singh-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Piyush Singh portfolio - static site, no build step, no dependencies",
+  "scripts": { "start": "npx serve ." }
+}
